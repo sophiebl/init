@@ -1,8 +1,10 @@
-PING 42.fr (10.52.1.12): 56 data bytes
-64 bytes from 10.52.1.12: icmp_seq=0 ttl=63 time=0.473 ms
-64 bytes from 10.52.1.12: icmp_seq=1 ttl=63 time=0.501 ms
-64 bytes from 10.52.1.12: icmp_seq=2 ttl=63 time=0.422 ms
-64 bytes from 10.52.1.12: icmp_seq=3 ttl=63 time=0.434 ms
-64 bytes from 10.52.1.12: icmp_seq=4 ttl=63 time=0.443 ms
-64 bytes from 10.52.1.12: icmp_seq=5 ttl=63 time=0.586 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
+Non-authoritative answer:
+Name:	42.fr
+Address: 163.172.250.12
+Name:	42.fr
+Address: 163.172.250.11
+Name:	42.fr
+Address: 163.172.250.13
