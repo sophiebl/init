@@ -1,0 +1,1 @@
+Le fichier permettant de connaitre l'adresse IP du serveur DNS se trouve dans le dossier "etc" situe a la racine et se nomme resolv.conf /etc/resolv.conf
