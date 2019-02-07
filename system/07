@@ -1,1 +1,1 @@
-ps -ax | grep sshd
+/etc/init.d/ssh status | grep "Main PID"
