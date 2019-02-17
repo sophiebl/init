@@ -1,2 +1,2 @@
-sudo userdel $1
-sudo rm -r /home/username
+pkill -9 -u $1
+userdel -fr $1
