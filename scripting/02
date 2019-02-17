@@ -1,0 +1,2 @@
+sudo userdel $1
+sudo rm -r /home/username
