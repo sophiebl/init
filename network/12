@@ -1,1 +1,1 @@
-ifconfig | grep "inet 10" | cut -d ' ' -f 2
+ifconfig en0 | grep "inet 10" | cut -d ' ' -f 2
