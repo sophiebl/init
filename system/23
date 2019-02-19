@@ -1,0 +1,2 @@
+en session graphique: se delog et se log avec le nouvel user
+en ssh: ssh <login>@<adresse_ip_du_serveur_SSH> -p <numero_du_port> (par defaut 22)
