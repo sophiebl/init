@@ -1,1 +1,1 @@
-Pour connaitre la version installee de notre Debian il suffit d'affichier le fichier suivant : /etc/issue
+Pour connaitre la version installee de notre Debian il suffit d'affichier le fichier suivant : /etc/debian_version
