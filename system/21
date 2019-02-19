@@ -1,2 +1,1 @@
-cd /home
-ls
+cut -d ":" -f 1,3 /etc/passwd | grep -E ":[0-9]{4}$" | cut -d ":" -f 1
