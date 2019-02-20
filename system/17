@@ -1,1 +1,2 @@
 ssh root@127.0.0.1 -p 22
+ssh <login>@<adresse_ip_du_serveur_SSH> -p <numero_du_port> (par defaut 22)
